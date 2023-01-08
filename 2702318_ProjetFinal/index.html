@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Jeu du dongon</title>
+
+   <link rel="stylesheet" href="./css/normalize.css">
+   <link rel="stylesheet" href="./css/style.css">
+   <!--Liason du fichier javascript au fichier html-->
+   <script type="module" src="./js/explorateurDonjon.js" defer></script>
+</head>
+
+<body>
+
+   <div class="cont">
+      <div id="afficheBase">
+         <div class="content">
+            <div class="principalB">
+
+               <div class="titre">
+                  <h1>Dungeon Explorer</h1>
+               </div>
+
+               <div class="contenuCentral">
+                  <h2>Score maximal obtenu des parties effectuées : <span id="plusGrandScore">0</span></h2>
+                  <button id="boutonLancement" class="bouton"> Hello!! Cliquez ici pour jouer une nouvelle
+                     partie</button>
+               </div>
+
+            </div>
+         </div>
+      </div>
+      <div id="affichageJeu">
+         <div class="content">
+            <div class="jeu">
+               <div class="titre">
+                  <h1>Dungeon Explorer</h1>
+               </div>
+               <div class="barreDuScore">
+                  <div class="boites">
+                     <div id="boite">
+                        <div id="evolution"></div>
+                        <div id="nouv">40/40</div>
+                     </div>
+                  </div>
+                  <div class="bt-score">
+                     <span>Score: </span> <span id="scoreEmplacement">1</span>
+                  </div>
+               </div>
+               <div class="barre">
+                  <canvas id="canva"></canvas>
+               </div>
+               <div class="crtl">
+                  <div class="pad-box">
+                     <div>
+                        <button id="bouton_haut" class="bouton">
+                           &#8593
+                        </button>
+                     </div>
+                     <div>
+                        <button id="bouton_gauche" class="bouton">
+                           &#8592
+                        </button>
+                        <button id="bouton_bas" class="bouton">
+                           &#8595
+                        </button>
+                        <button id="bouton_droit" class="bouton">
+                           &#8594
+                        </button>
+                     </div>
+                  </div>
+
+                  <div class="out">
+                     <div class="stoc"></div>
+                     <button id="boutonSortie" class="bouton">Exit dungeon(E)</button>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+   <div id="afficheFin" class="affiche">
+      <article class="contenue">
+         <header class="entete">
+            <h2>Game Over!</h2>
+         </header>
+         <div class="ouv">
+            <p>
+               <strong><span>Score: </span><span id="laBoiteScore">0</span></strong>
+            </p>
+         </div>
+         <footer class="pied">
+            <button class="action" id="retry">Retry</button>
+            <button class="action" id="ferme">Exit</button>
+         </footer>
+      </article>
+   </div>
+
+
+   <div id="afficheFin1" class="affiche">
+      <article class="contenue">
+         <header class="entete">
+            <h2>Voulez vous sortir du jeu?</h2>
+         </header>
+         <div class="ouv">
+            <p>
+               <strong><span>Score: </span><span id="laBoiteScore">0</span></strong>
+            </p>
+         </div>
+
+         <footer class="pied">
+            <button class="action" id="continue">Continue</button>
+            <button class="action" id="ferme">Exit</button>
+         </footer>
+      </article>
+   </div>
+
+   <footer id="fond">
+      &copy; Boucte Ange Pascal | Collège La Cité
+   </footer>
+</body>
+
+</html>
