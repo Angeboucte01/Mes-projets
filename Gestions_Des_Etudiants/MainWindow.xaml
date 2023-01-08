@@ -1,0 +1,60 @@
+﻿<Window x:Class="WPF_BD_10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_BD_10"
+        mc:Ignorable="d"
+        Title="Gestions des Etudiants" Height="450" Width="700">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Nom : " Grid.Row="0" Grid.Column="0" FontSize="25"/>
+        <Label Content="Prénom : " Grid.Row="1" Grid.Column="0" FontSize="25"/>
+        <Label Content="Groupe : " Grid.Row="2" Grid.Column="0" FontSize="25"/>
+        <Label Content="Liste des étudiants : " Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" FontSize="25"/>
+
+        <TextBox x:Name="txtNom" Grid.Row="0" Grid.Column="1" Margin="0 5 0 5" />
+        <TextBox x:Name="txtPrenom" Grid.Row="1" Grid.Column="1" Margin="0 5 0 5"/>
+
+        
+        
+        <TextBox x:Name="txtTrait" Grid.Row="3" Grid.Column="2" Margin="0 5 0 5" FontSize="19" 
+                 TextChanged="txtTrait_TextChanged"/>
+        <Label x:Name="lblHint" Content="ID à supprimer" Grid.Row="3" Grid.Column="2" Margin="0 5 0 5"
+               Foreground="LightGray" FontSize="19" IsHitTestVisible="False"/>
+
+        
+        
+        
+
+        <ComboBox x:Name="cbxGroupe" Grid.Row="2" Grid.Column="1" Margin="0 5 0 5" 
+                  SelectionChanged="cbxGroupe_SelectionChanged" />
+        <DataGrid x:Name="dgListe" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="4" 
+                  Grid.RowSpan="4" Margin="5 5 5 5" SelectionChanged="dgListe_SelectionChanged" ColumnWidth="150" />
+
+
+
+        <Button x:Name="btnInsert" Content="Ajouter" Grid.Column="3" Grid.Row="0"
+                Margin="5 5 5 5" FontSize="21" Click="btnInsert_Click"/>
+        <Button x:Name="btnUpdate" Content="Modifier" Grid.Column="3" Grid.Row="1"
+                Margin="5 5 5 5" FontSize="21" Click="btnUpdate_Click"  />
+        <Button x:Name="btnDelete" Content="Supprimer" Grid.Column="3" Grid.Row="2"
+                Margin="5 5 5 5" FontSize="21" Click="btnDelete_Click" />
+    </Grid>
+</Window>

@@ -1,0 +1,78 @@
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.AssemblyReference.cache
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\MainWindow.g.cs
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\App.g.cs
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\WPF_BD_10_MarkupCompile.cache
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\WPF_BD_10_MarkupCompile.lref
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\bin\Debug\WPF_BD_10.exe.config
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\bin\Debug\WPF_BD_10.exe
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\bin\Debug\WPF_BD_10.pdb
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\MainWindow.baml
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\WPF_BD_10.g.resources
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\WPF_BD_10.Properties.Resources.resources
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.GenerateResource.cache
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.CoreCompileInputs.cache
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\WPF_BD_10.exe
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_10\obj\Debug\WPF_BD_10.pdb
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\bin\Debug\WPF_BD_10.exe.config
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\bin\Debug\WPF_BD_10.exe
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\bin\Debug\WPF_BD_10.pdb
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\WPF_BD_10.csproj.AssemblyReference.cache
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\MainWindow.g.cs
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\App.g.cs
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\WPF_BD_10_MarkupCompile.cache
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\WPF_BD_10_MarkupCompile.lref
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\MainWindow.baml
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\WPF_BD_10.g.resources
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\WPF_BD_10.Properties.Resources.resources
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\WPF_BD_10.csproj.GenerateResource.cache
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\WPF_BD_10.csproj.CoreCompileInputs.cache
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\WPF_BD_10.exe
+C:\Users\SEloua\OneDrive - Collège la Cité\Documents\0000-cite\Application bureau\WPF_BD_30\obj\Debug\WPF_BD_10.pdb
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\bin\Debug\WPF_BD_10.exe.config
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\bin\Debug\WPF_BD_10.exe
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\bin\Debug\WPF_BD_10.pdb
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.AssemblyReference.cache
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.SuggestedBindingRedirects.cache
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\MainWindow.g.cs
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\App.g.cs
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10_MarkupCompile.cache
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10_MarkupCompile.lref
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\MainWindow.baml
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10.g.resources
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10.Properties.Resources.resources
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.GenerateResource.cache
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.CoreCompileInputs.cache
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10.exe
+D:\A2022\Bureau\Semaine-11\WPF_BD_10\obj\Debug\WPF_BD_10.pdb
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\bin\Debug\WPF_BD_10.exe.config
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\bin\Debug\WPF_BD_10.exe
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\bin\Debug\WPF_BD_10.pdb
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.AssemblyReference.cache
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\MainWindow.g.cs
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\App.g.cs
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10_MarkupCompile.cache
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10_MarkupCompile.lref
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\MainWindow.baml
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10.g.resources
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10.Properties.Resources.resources
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.GenerateResource.cache
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10.csproj.CoreCompileInputs.cache
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10.exe
+C:\Users\angeb\Dropbox\PC\Downloads\WPF_BD_10\obj\Debug\WPF_BD_10.pdb
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\bin\Debug\WPF_BD_10.exe.config
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\bin\Debug\WPF_BD_10.exe
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\bin\Debug\WPF_BD_10.pdb
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10.csproj.AssemblyReference.cache
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\MainWindow.g.cs
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\App.g.cs
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10_MarkupCompile.cache
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10_MarkupCompile.lref
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\MainWindow.baml
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10.g.resources
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10.Properties.Resources.resources
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10.csproj.GenerateResource.cache
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10.csproj.CoreCompileInputs.cache
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10.exe
+C:\Users\angeb\OneDrive\Bureau\MesProjetsPortfolio\Gestions des Etudiants\obj\Debug\WPF_BD_10.pdb
